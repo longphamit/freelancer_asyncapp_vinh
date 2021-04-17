@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349699347464",
+    "project_id": "sy-clipboard",
+    "storage_bucket": "sy-clipboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349699347464:android:e0ddf72d463838bea02dbd",
+        "android_client_info": {
+          "package_name": "com.syclipboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349699347464-e3npicub3sobo3cojd3vpo93g5c7iq1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1aEfmgSxn4rXHNkfz7JYUcBjI0UICveg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349699347464-e3npicub3sobo3cojd3vpo93g5c7iq1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

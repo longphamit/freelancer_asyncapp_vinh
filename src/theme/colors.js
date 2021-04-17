@@ -1,0 +1,26 @@
+const Colors = {
+  black: 'rgb(58, 58, 58)',
+  info: '#0195FF',
+  success: '#42B72B',
+  warning: '#F8B318',
+  danger: '#ED2A28',
+  transparent: 'transparent',
+  white: '#fff',
+  whiteGrey: '#f4f3f4',
+  red: '#f00',
+  yellow: '#ff0',
+  blue: '#00f',
+  green: '#008000',
+  grey: '#808080',
+  greyLine: 'rgba(133, 137, 131, 0.3)',
+  greyBack: 'rgba(137, 145, 124, 0.6)',
+  pink: 'rgba(204, 98, 88, 1)',
+  pinkTitle: 'rgba(224, 99, 133, 1)',
+  pinkButton: 'color: rgba(186, 121, 137, 0.7)',
+  lightGrey: '#e9e9e9',
+  light: '#F5F5F5',
+  veryLightGray: '#e0e0e0',
+  lightOverlay: 'rgba(0,0,0,0.4)',
+};
+
+export default Colors;

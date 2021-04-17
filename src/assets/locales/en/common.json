@@ -1,0 +1,13 @@
+{
+  "error": "Error",
+  "ok": "Ok",
+  "cancel": "Cancel",
+  "close": "Close",
+  "notice": "Notice",
+  "done": "Done",
+  "back": "Back",
+  "retry": "Retry",
+  "add": "Add",
+  "next": "Next",
+  "continue": "Continue"
+}
